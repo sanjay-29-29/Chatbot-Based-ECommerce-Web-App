@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:hacksphere2025/backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:hacksphere2025/frontend.git
+[submodule "model"]
+	path = model
+	url = git@github.com:hacksphere2025/model.git
